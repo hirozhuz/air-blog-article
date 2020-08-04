@@ -9,4 +9,4 @@
 
 # 目录
 1. [《微前端》](https://github.com/hirozhuz/air-blog-article/blob/master/frontends/note/%E5%BE%AE%E5%89%8D%E7%AB%AF.md)：主要是对微前端的基础分享。包括：什么是微前端、微前端的优点、微前端的几种方案、微前端的架构模式和目前主流的微前端框架分享。
-2.[《css3实现等边三角形》](https://github.com/hirozhuz/air-blog-article/blob/master/frontends/css/css3%E5%AE%9E%E7%8E%B0%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2.md):本文主要介绍了如何利用css3实现一个等边六边形以及如何计算组成等边六形矩形的宽高。
+2. [《css3实现等边三角形》](https://github.com/hirozhuz/air-blog-article/blob/master/frontends/css/css3%E5%AE%9E%E7%8E%B0%E7%AD%89%E8%BE%B9%E4%B8%89%E8%A7%92%E5%BD%A2.md):本文主要介绍了如何利用css3实现一个等边六边形以及如何计算组成等边六形矩形的宽高。
